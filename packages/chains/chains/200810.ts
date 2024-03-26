@@ -29,7 +29,9 @@ export default {
   "rpc": [
     "https://200810.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
     "https://testnet-rpc.bitlayer.org",
-    "wss://testnet-ws.bitlayer.org"
+    "wss://testnet-ws.bitlayer.org",
+    "https://testnet-rpc.bitlayer-rpc.com",
+    "wss://testnet-ws.bitlayer-rpc.com"
   ],
   "shortName": "Bitlayer",
   "slip44": 1,
